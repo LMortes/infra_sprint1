@@ -1,5 +1,0 @@
-IP: 62.84.122.31;
-name_taski: https://taskipollot.ddns.net;
-name_kittygram: https://kitgrampollot.ddns.net;
-login: yc-user;
-password: 5WfwS3;
